@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh Bhandari</h1>
 <h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Python, PHP, Node.js, MySQL and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/yogesh-bhandari07/yogesh-bhandari07/assets/66119266/44d3af87-76b0-4bf3-89a5-b9b4b720ccdd">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh-bhandari07&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-bhandari07" /> </p>
 
