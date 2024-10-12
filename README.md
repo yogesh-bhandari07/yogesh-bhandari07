@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Global Payments](https://www.globalpayments.com/en-ap)
 
-- 👨‍💻 All of my projects are available at [https://www.yogesh-bhandari.com/](https://www.yogesh-bhandari.com/)
+- 👨‍💻 All of my projects are available at [https://www.yogesh-bhandari.com/](https://portfolio-one-olive-14.vercel.app/)
 
 - 💬 Ask me about **Python,PHP and Javascript**
 
