@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh-bhandari07&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-bhandari07" /> </p>
 
-- 🔭 I’m currently working on [I4Invest](https://i4invest.vercel.app/login)
+- 🔭 I’m currently working on [Global Payments](https://www.globalpayments.com/en-ap)
 
 - 👨‍💻 All of my projects are available at [https://www.yogesh-bhandari.com/](https://www.yogesh-bhandari.com/)
 
