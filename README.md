@@ -174,11 +174,11 @@
     </a>
 
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="tailwind"
+        <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="jenkins"
             width="40" height="40" />
     </a>
     <a href="https://angular.dev/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="tailwind"
+        <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="angular"
             width="40" height="40" />
     </a>
 </p>
