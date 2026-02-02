@@ -43,16 +43,6 @@ I have worked on **banking systems, airline booking platforms, payment gateways,
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogesh-bhandari07&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh-bhandari07&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🎯 Focus Areas
