@@ -43,8 +43,6 @@ I have worked on **banking systems, airline booking platforms, payment gateways,
 
 ---
 
----
-
 ## 🎯 Focus Areas
 
 FinTech • AI Automation • Secure APIs • Scalable Architecture • Cloud Deployment
