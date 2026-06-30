@@ -18,7 +18,7 @@
 
 ## 🧠 About
 
-I am a **Full-Stack Software Engineer** with **4+ years** of experience building  
+I am a **Full-Stack Software Engineer** with **4.5+ years** of experience building  
 **FinTech platforms, AI systems and high-traffic SaaS products**.
 
 I have worked on **banking systems, airline booking platforms, payment gateways, and AI-based data engines**.
